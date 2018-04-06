@@ -1,8 +1,7 @@
 <?php
 
-$mitsui = "321&912"
+$mitsui = "321&91                                                2"
 
 echo "$mitsui";
-
-
+                こfこさkふぉdさkふぉsだkfdそkふぁそkふぉk
  ?>
